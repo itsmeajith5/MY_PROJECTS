@@ -1,5 +1,4 @@
-Backup Script README
-Overview
+
 This Bash script automates the process of backing up data from a specified directory to a backup location. It also removes backups older than 7 days to maintain storage efficiency.
 
 Features
